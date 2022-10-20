@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muzahmads
-- 👀 I'm full-time Data Scientist in Tokyo
+- 👀 I'm full-time Data Scientist in Kuala Lumpur
 - 📫 My [LinkedIn](https://www.linkedin.com/in/ahmad-muzaffar-baharudin-970698124/)
 
 <!---
